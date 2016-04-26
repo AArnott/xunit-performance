@@ -1,5 +1,8 @@
 ﻿{
   "dependencies": {
+    "EnlistmentInfo": "1.0.4",
+    "Nerdbank.GitVersioning": "1.4.19",
+    "ReadOnlySourceTree": "0.1.36-beta",
     "xunit": "2.1.0",
     "xunit.runner.visualstudio": "2.1.0"
   },
